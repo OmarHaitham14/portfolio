@@ -1,0 +1,83 @@
+.image1{
+border-radius: 80%;
+border: 5px solid rgb(12, 3, 3);
+float: left;
+margin-right: 80px ;
+  
+width: 175px;
+height: 180px;
+
+
+}
+
+
+
+
+
+
+
+.p1{
+
+background-color: rgb(180, 26, 26);
+ 
+margin-left: 40px;
+
+margin-right: 40px;
+
+text-align: center;
+
+}
+ 
+
+
+
+
+#topic1{
+
+    font-size: 100px;
+    text-align: center;      
+
+}
+
+
+.topic2{
+
+font-size: 100px;
+text-align: center;
+}
+
+p{
+
+font-size: 40px;
+
+}
+
+
+
+
+
+.p2{
+
+background-color: rgb(43, 226, 113);
+
+margin-left: 40px;
+  
+margin-right: 40px;
+
+text-align: center;
+
+}
+
+
+.p{
+
+    font-size: medium;
+}
+
+
+
+
+
+
+
+
